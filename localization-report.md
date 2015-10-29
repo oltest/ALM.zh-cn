@@ -4,9 +4,9 @@
  Property | Value 
  -------- | ----- 
  Total Files | 44
-[ Handoff Files ](#handoff-list)| 31
+[ Handoff Files ](#handoff-list)| 32
 [ Handback Files ](#handback-list)| 0
-[ Ignored Files ](#ignored-list)| 13
+[ Ignored Files ](#ignored-list)| 12
 
 ## <a name='handoff-list'></a> Handoff File List
  Source File | Status | Details 
@@ -42,28 +42,28 @@
  [openpublishing\corefx\supporting-core.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/supporting-core.md) | HandedOff | [Details](#bd3661c432f0a4778e717944cb2b9da49f01b55037)
  [openpublishing\corefx\TOC.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/TOC.md) | HandedOff | [Details](#a87f468488353198a90b5d7a4014149a241cdfc438)
  [openpublishing\manual\git-tips.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/manual/git-tips.md) | HandedOff | [Details](#0cd6e077b8cc8816a1075b8f4fd3dd527c31fce039)
+ [README.md](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/README.md) | HandedOff | [Details](#b70a6bef95101b3ff849c50f0d7aaa6768a244d141)
 
 ## <a name='handback-list'></a> Handback File List
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitattributes](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.gitattributes) | Ignored | [Details](#2c1741fb1014d41275cf6193f806ae86cc951f250)
- [.gitignore](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc61)
- [.localization-config](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.localization-config) | Ignored | [Details](#4ea2600f9f48c6f9f3557526582e9d06718147d02)
- [.openpublishing.build.mdproj](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.openpublishing.build.mdproj) | Ignored | [Details](#ea7542a1cc208464193da9503160bbb41d54856c3)
- [.openpublishing.publish.config.json](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.openpublishing.publish.config.json) | Ignored | [Details](#63610875d6ec2a1b100a1116cc4a75591fc820654)
- [docfx.json](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/docfx.json) | Ignored | [Details](#09a498c7a6ea75ab923c70025b07573eec2853e75)
- [openpublishing\corefx\common-language-runtime.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/common-language-runtime.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd807098)
- [openpublishing\corefx\dotnet-standards.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/dotnet-standards.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070912)
- [openpublishing\corefx\images\assembly-headers.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/assembly-headers.png) | Ignored | [Details](#938b47878d90fc32819bbfbae2b5737eab1bf67718)
- [packages.config](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf40)
- [README.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/README.md) | Ignored | [Details](#b70a6bef95101b3ff849c50f0d7aaa6768a244d141)
- [Tools\NuGet\Nuget.Config](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/Tools/NuGet/Nuget.Config) | Ignored | [Details](#a69c5028953f761244b6c98751872b4a0358739f42)
- [Tools\NuGet\nuget.exe](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35843)
+ [.gitattributes](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.gitattributes) | Ignored | [Details](#2c1741fb1014d41275cf6193f806ae86cc951f250)
+ [.gitignore](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.gitignore) | Ignored | [Details](#53dc443a626b71dd55acef1eb425626a2e091fc61)
+ [.localization-config](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.localization-config) | Ignored | [Details](#e2c2332d4ef11031a07f646ad01239a43cd9b6552)
+ [.openpublishing.build.mdproj](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.openpublishing.build.mdproj) | Ignored | [Details](#ea7542a1cc208464193da9503160bbb41d54856c3)
+ [.openpublishing.publish.config.json](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.openpublishing.publish.config.json) | Ignored | [Details](#63610875d6ec2a1b100a1116cc4a75591fc820654)
+ [docfx.json](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/docfx.json) | Ignored | [Details](#09a498c7a6ea75ab923c70025b07573eec2853e75)
+ [openpublishing\corefx\common-language-runtime.md](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/openpublishing/corefx/common-language-runtime.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd807098)
+ [openpublishing\corefx\dotnet-standards.md](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/openpublishing/corefx/dotnet-standards.md) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070912)
+ [openpublishing\corefx\images\assembly-headers.png](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/openpublishing/corefx/images/assembly-headers.png) | Ignored | [Details](#938b47878d90fc32819bbfbae2b5737eab1bf67718)
+ [packages.config](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf40)
+ [Tools\NuGet\Nuget.Config](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/Tools/NuGet/Nuget.Config) | Ignored | [Details](#a69c5028953f761244b6c98751872b4a0358739f42)
+ [Tools\NuGet\nuget.exe](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d35843)
 
 ## Item Details
-##### <a name='2c1741fb1014d41275cf6193f806ae86cc951f250'></a> Source: [.gitattributes](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.gitattributes)
+##### <a name='2c1741fb1014d41275cf6193f806ae86cc951f250'></a> Source: [.gitattributes](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.gitattributes)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -73,7 +73,7 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='53dc443a626b71dd55acef1eb425626a2e091fc61'></a> Source: [.gitignore](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.gitignore)
+##### <a name='53dc443a626b71dd55acef1eb425626a2e091fc61'></a> Source: [.gitignore](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -83,7 +83,7 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='4ea2600f9f48c6f9f3557526582e9d06718147d02'></a> Source: [.localization-config](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.localization-config)
+##### <a name='e2c2332d4ef11031a07f646ad01239a43cd9b6552'></a> Source: [.localization-config](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -93,7 +93,7 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='ea7542a1cc208464193da9503160bbb41d54856c3'></a> Source: [.openpublishing.build.mdproj](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.openpublishing.build.mdproj)
+##### <a name='ea7542a1cc208464193da9503160bbb41d54856c3'></a> Source: [.openpublishing.build.mdproj](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.openpublishing.build.mdproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -103,7 +103,7 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='63610875d6ec2a1b100a1116cc4a75591fc820654'></a> Source: [.openpublishing.publish.config.json](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/.openpublishing.publish.config.json)
+##### <a name='63610875d6ec2a1b100a1116cc4a75591fc820654'></a> Source: [.openpublishing.publish.config.json](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -113,7 +113,7 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='09a498c7a6ea75ab923c70025b07573eec2853e75'></a> Source: [docfx.json](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/docfx.json)
+##### <a name='09a498c7a6ea75ab923c70025b07573eec2853e75'></a> Source: [docfx.json](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -143,7 +143,7 @@
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
-##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd807098'></a> Source: [openpublishing\corefx\common-language-runtime.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/common-language-runtime.md)
+##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd807098'></a> Source: [openpublishing\corefx\common-language-runtime.md](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/openpublishing/corefx/common-language-runtime.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -183,7 +183,7 @@
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
-##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd8070912'></a> Source: [openpublishing\corefx\dotnet-standards.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/dotnet-standards.md)
+##### <a name='da39a3ee5e6b4b0d3255bfef95601890afd8070912'></a> Source: [openpublishing\corefx\dotnet-standards.md](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/openpublishing/corefx/dotnet-standards.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -236,15 +236,15 @@
 ##### <a name='75c35606d91f76b18666cd3da0fd646337a5abb017'></a> Source: [openpublishing\corefx\images\alex-api-layers.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/alex-api-layers.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [75c35606d91f76b18666cd3da0fd646337a5abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/75c35606d91f76b18666cd3da0fd646337a5abb0.png)
+* Handoff File: [75c35606d91f76b18666cd3da0fd646337a5abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/75c35606d91f76b18666cd3da0fd646337a5abb0.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
 * [Back to Top](#report-top)
 
-##### <a name='938b47878d90fc32819bbfbae2b5737eab1bf67718'></a> Source: [openpublishing\corefx\images\assembly-headers.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/assembly-headers.png)
+##### <a name='938b47878d90fc32819bbfbae2b5737eab1bf67718'></a> Source: [openpublishing\corefx\images\assembly-headers.png](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/openpublishing/corefx/images/assembly-headers.png)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -257,9 +257,9 @@
 ##### <a name='fbfe6918a245f1b9dff32ddb0670d2ac8b73101a21'></a> Source: [openpublishing\corefx\images\compiler-pipeline.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/compiler-pipeline.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png)
+* Handoff File: [fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -268,9 +268,9 @@
 ##### <a name='56bc9f34b30fb05bbab31d709d45f30d23b4149d19'></a> Source: [openpublishing\corefx\images\compiler-pipeline-api.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/compiler-pipeline-api.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [56bc9f34b30fb05bbab31d709d45f30d23b4149d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/56bc9f34b30fb05bbab31d709d45f30d23b4149d.png)
+* Handoff File: [56bc9f34b30fb05bbab31d709d45f30d23b4149d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/56bc9f34b30fb05bbab31d709d45f30d23b4149d.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -279,9 +279,9 @@
 ##### <a name='23805558c35dac3c885b89d4897da0dcd17957b220'></a> Source: [openpublishing\corefx\images\compiler-pipeline-lang-svc.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/compiler-pipeline-lang-svc.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [23805558c35dac3c885b89d4897da0dcd17957b2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/23805558c35dac3c885b89d4897da0dcd17957b2.png)
+* Handoff File: [23805558c35dac3c885b89d4897da0dcd17957b2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/23805558c35dac3c885b89d4897da0dcd17957b2.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -290,9 +290,9 @@
 ##### <a name='698b28a951d61e2c7d1216269bcb680a4dd4bc1022'></a> Source: [openpublishing\corefx\images\dnx-run.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/dnx-run.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [698b28a951d61e2c7d1216269bcb680a4dd4bc10.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/698b28a951d61e2c7d1216269bcb680a4dd4bc10.png)
+* Handoff File: [698b28a951d61e2c7d1216269bcb680a4dd4bc10.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/698b28a951d61e2c7d1216269bcb680a4dd4bc10.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\console.md
@@ -301,9 +301,9 @@
 ##### <a name='005fc3f7f065572681b664fe24d376c0f405146b23'></a> Source: [openpublishing\corefx\images\dnx-trace-coreclr-run.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/dnx-trace-coreclr-run.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [005fc3f7f065572681b664fe24d376c0f405146b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/005fc3f7f065572681b664fe24d376c0f405146b.png)
+* Handoff File: [005fc3f7f065572681b664fe24d376c0f405146b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/005fc3f7f065572681b664fe24d376c0f405146b.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\console.md
@@ -312,9 +312,9 @@
 ##### <a name='3fd5bff22e00308636c2f0c5df4b7d3392462e6024'></a> Source: [openpublishing\corefx\images\dnx-trace-run.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/dnx-trace-run.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [3fd5bff22e00308636c2f0c5df4b7d3392462e60.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/3fd5bff22e00308636c2f0c5df4b7d3392462e60.png)
+* Handoff File: [3fd5bff22e00308636c2f0c5df4b7d3392462e60.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/3fd5bff22e00308636c2f0c5df4b7d3392462e60.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\console.md
@@ -323,9 +323,9 @@
 ##### <a name='878751ec4663e23a4ea7b70da29e750e222e19fa25'></a> Source: [openpublishing\corefx\images\portability_report.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/portability_report.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [878751ec4663e23a4ea7b70da29e750e222e19fa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/878751ec4663e23a4ea7b70da29e750e222e19fa.png)
+* Handoff File: [878751ec4663e23a4ea7b70da29e750e222e19fa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/878751ec4663e23a4ea7b70da29e750e222e19fa.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\supporting-core.md
@@ -334,9 +334,9 @@
 ##### <a name='f8208a75ae262d5130b5031bc8562d5b396442ef26'></a> Source: [openpublishing\corefx\images\portability_screenshot.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/portability_screenshot.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [f8208a75ae262d5130b5031bc8562d5b396442ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/f8208a75ae262d5130b5031bc8562d5b396442ef.png)
+* Handoff File: [f8208a75ae262d5130b5031bc8562d5b396442ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/f8208a75ae262d5130b5031bc8562d5b396442ef.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\supporting-core.md
@@ -345,9 +345,9 @@
 ##### <a name='31af85325450edc2abc7ba8dadf618272e81efc427'></a> Source: [openpublishing\corefx\images\portability_solution_explorer.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/portability_solution_explorer.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [31af85325450edc2abc7ba8dadf618272e81efc4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/31af85325450edc2abc7ba8dadf618272e81efc4.png)
+* Handoff File: [31af85325450edc2abc7ba8dadf618272e81efc4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/31af85325450edc2abc7ba8dadf618272e81efc4.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\supporting-core.md
@@ -356,9 +356,9 @@
 ##### <a name='a6cb99ce97c377f3e4780f94bf9710abdcce7b7c28'></a> Source: [openpublishing\corefx\images\workspace-obj-relations.png](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/openpublishing/corefx/images/workspace-obj-relations.png)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/4b508ba6db52afa5256c99de7852af3387fbe5a4/ol-handoff/oltest/ALM.zh-cn/master/a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png)
+* Handoff File: [a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png)
 * Handback File: 
-* Handoff Datetime: 2015-10-29 09:45:54
+* Handoff Datetime: 2015-10-29 09:51:02
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -474,7 +474,7 @@
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
-##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf40'></a> Source: [packages.config](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/packages.config)
+##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf40'></a> Source: [packages.config](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/packages.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -484,7 +484,17 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='b70a6bef95101b3ff849c50f0d7aaa6768a244d141'></a> Source: [README.md](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/README.md)
+##### <a name='b70a6bef95101b3ff849c50f0d7aaa6768a244d141'></a> Source: [README.md](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/README.md)
+* Status: HandedOff
+* Target File: 
+* Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/237ba4c59dcb2104e5ef7701c0d1b4ca8b3b1c1b/ol-handoff/oltest/ALM.zh-cn/master/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.zh-cn.xlf)
+* Handback File: 
+* Handoff Datetime: 2015-10-29 09:51:02
+* Handback Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Include
+* [Back to Top](#report-top)
+
+##### <a name='a69c5028953f761244b6c98751872b4a0358739f42'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/Tools/NuGet/Nuget.Config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -494,17 +504,7 @@
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
-##### <a name='a69c5028953f761244b6c98751872b4a0358739f42'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/Tools/NuGet/Nuget.Config)
-* Status: Ignored
-* Target File: 
-* Handoff File: 
-* Handback File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
-* [Back to Top](#report-top)
-
-##### <a name='7469c905e04001f8250137d2da57bbc7bec2d35843'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/oltest/ALM/blob/1ec79e7ae831890aeec9125795587ae2c3ec9b32/Tools/NuGet/nuget.exe)
+##### <a name='7469c905e04001f8250137d2da57bbc7bec2d35843'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/oltest/ALM/blob/a0d79d699b02d1f68a39064446ff0086a83c5882/Tools/NuGet/nuget.exe)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
