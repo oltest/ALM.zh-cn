@@ -12,5 +12,6 @@
             }
         }
     ],
-    "notification_subscribers": ["mayast@microsoft.com", "yanz@microsoft.com", "fenxu@microsoft.com"]
+    "notification_subscribers": ["mayast@microsoft.com", "yanz@microsoft.com", "fenxu@microsoft.com"],
+    "branches_to_filter": ["master-oldev", "live-oldev"]
 }
