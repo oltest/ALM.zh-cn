@@ -4,7 +4,8 @@
       [
         {
           "files": ["**/**.md"],
-          "cwd": "openpublishing/corefx"
+          "cwd": "openpublishing/corefx",
+          "exclude": ["localization-handback-report.md", "localization-handoff-report.md", "localization-report.md"]
         }
       ],
     "resource": [
