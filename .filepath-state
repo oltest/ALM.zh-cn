@@ -1,1 +1,93 @@
-{}
+{
+  "bcf7532d43ea83ecd9e14c33f94b7b22246b6e4d": [
+    "openpublishing\\corefx\\assembly-format.md"
+  ],
+  "13a745ad7505df3de3fa139501603cda51857a05": [
+    "openpublishing\\corefx\\class-libraries.md"
+  ],
+  "8d01a8066a762a5a151edf23124aa166ec51b5e4": [
+    "openpublishing\\corefx\\common-type-system.md"
+  ],
+  "5fefb09d0750787b2a5cf49ab6a8176b9141b8cf": [
+    "openpublishing\\corefx\\console.md"
+  ],
+  "698b28a951d61e2c7d1216269bcb680a4dd4bc10": [
+    "openpublishing\\corefx\\images\\dnx-run.png"
+  ],
+  "3fd5bff22e00308636c2f0c5df4b7d3392462e60": [
+    "openpublishing\\corefx\\images\\dnx-trace-run.png"
+  ],
+  "005fc3f7f065572681b664fe24d376c0f405146b": [
+    "openpublishing\\corefx\\images\\dnx-trace-coreclr-run.png"
+  ],
+  "aa72de4c3ff6dea4282143dff932772bf5076204": [
+    "openpublishing\\corefx\\delegates-lambdas.md"
+  ],
+  "9f56bf874389479d4ec9c8080971f19905da610c": [
+    "openpublishing\\corefx\\framework-libraries.md"
+  ],
+  "51689a4533ba47ce22bed502089aaf485de7a27c": [
+    "openpublishing\\corefx\\gc-overview.md"
+  ],
+  "611f2e66e732e53de7d75f5b8a5549484e22e19a": [
+    "openpublishing\\corefx\\generics.md"
+  ],
+  "d01abe928b17237c025c054b4913821c99a4e0b9": [
+    "openpublishing\\corefx\\getting-started\\overview.md"
+  ],
+  "86b628ac3d19b3c01f81f6c8189002b84ef42b05": [
+    "openpublishing\\corefx\\installing-core-linux.md"
+  ],
+  "7c1c966b143a1b7480678a16ea681f00c283af13": [
+    "openpublishing\\corefx\\installing-core-osx.md"
+  ],
+  "0184a5a6c7653c8060408e50fbebc1f81cf315a4": [
+    "openpublishing\\corefx\\installing-core-windows.md"
+  ],
+  "cd8ba36caa1f918598f5e21d8bc319fcd46a3dbc": [
+    "openpublishing\\corefx\\intro-clr.md",
+    "openpublishing\\corefx\\readme.md"
+  ],
+  "4cdd040089bfeadcaeee02bf9a61f19722616f62": [
+    "openpublishing\\corefx\\managed-code.md"
+  ],
+  "0049b616342431b715c0792b20266e99d53ba686": [
+    "openpublishing\\corefx\\primer.md"
+  ],
+  "f0a28c4f0a7ae280a0e4c4a5dfda3bfa27ef7a88": [
+    "openpublishing\\corefx\\roslyn-overview.md"
+  ],
+  "fbfe6918a245f1b9dff32ddb0670d2ac8b73101a": [
+    "openpublishing\\corefx\\images\\compiler-pipeline.png"
+  ],
+  "56bc9f34b30fb05bbab31d709d45f30d23b4149d": [
+    "openpublishing\\corefx\\images\\compiler-pipeline-api.png"
+  ],
+  "23805558c35dac3c885b89d4897da0dcd17957b2": [
+    "openpublishing\\corefx\\images\\compiler-pipeline-lang-svc.png"
+  ],
+  "75c35606d91f76b18666cd3da0fd646337a5abb0": [
+    "openpublishing\\corefx\\images\\alex-api-layers.png"
+  ],
+  "a6cb99ce97c377f3e4780f94bf9710abdcce7b7c": [
+    "openpublishing\\corefx\\images\\workspace-obj-relations.png"
+  ],
+  "bd3661c432f0a4778e717944cb2b9da49f01b550": [
+    "openpublishing\\corefx\\supporting-core.md"
+  ],
+  "f8208a75ae262d5130b5031bc8562d5b396442ef": [
+    "openpublishing\\corefx\\images\\portability_screenshot.png"
+  ],
+  "31af85325450edc2abc7ba8dadf618272e81efc4": [
+    "openpublishing\\corefx\\images\\portability_solution_explorer.png"
+  ],
+  "878751ec4663e23a4ea7b70da29e750e222e19fa": [
+    "openpublishing\\corefx\\images\\portability_report.png"
+  ],
+  "a87f468488353198a90b5d7a4014149a241cdfc4": [
+    "openpublishing\\corefx\\TOC.md"
+  ],
+  "0cd6e077b8cc8816a1075b8f4fd3dd527c31fce0": [
+    "openpublishing\\manual\\git-tips.md"
+  ]
+}
