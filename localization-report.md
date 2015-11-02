@@ -238,7 +238,7 @@
 * Target File: 
 * Handoff File: [75c35606d91f76b18666cd3da0fd646337a5abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/75c35606d91f76b18666cd3da0fd646337a5abb0.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -259,7 +259,7 @@
 * Target File: 
 * Handoff File: [fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -270,7 +270,7 @@
 * Target File: 
 * Handoff File: [56bc9f34b30fb05bbab31d709d45f30d23b4149d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/56bc9f34b30fb05bbab31d709d45f30d23b4149d.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -281,7 +281,7 @@
 * Target File: 
 * Handoff File: [23805558c35dac3c885b89d4897da0dcd17957b2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/23805558c35dac3c885b89d4897da0dcd17957b2.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
@@ -292,7 +292,7 @@
 * Target File: 
 * Handoff File: [698b28a951d61e2c7d1216269bcb680a4dd4bc10.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/698b28a951d61e2c7d1216269bcb680a4dd4bc10.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\console.md
@@ -303,7 +303,7 @@
 * Target File: 
 * Handoff File: [005fc3f7f065572681b664fe24d376c0f405146b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/005fc3f7f065572681b664fe24d376c0f405146b.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\console.md
@@ -314,7 +314,7 @@
 * Target File: 
 * Handoff File: [3fd5bff22e00308636c2f0c5df4b7d3392462e60.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/3fd5bff22e00308636c2f0c5df4b7d3392462e60.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\console.md
@@ -325,7 +325,7 @@
 * Target File: 
 * Handoff File: [878751ec4663e23a4ea7b70da29e750e222e19fa.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/878751ec4663e23a4ea7b70da29e750e222e19fa.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\supporting-core.md
@@ -336,7 +336,7 @@
 * Target File: 
 * Handoff File: [f8208a75ae262d5130b5031bc8562d5b396442ef.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/f8208a75ae262d5130b5031bc8562d5b396442ef.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\supporting-core.md
@@ -347,7 +347,7 @@
 * Target File: 
 * Handoff File: [31af85325450edc2abc7ba8dadf618272e81efc4.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/31af85325450edc2abc7ba8dadf618272e81efc4.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\supporting-core.md
@@ -358,7 +358,7 @@
 * Target File: 
 * Handoff File: [a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/7a73631046fa780a94f2c1d71e12f22ef6bfbac5/ol-handoff/oltest/ALM.zh-cn/live/a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:33:03
+* Handoff Datetime: 2015-11-02 12:33:49
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
 * Dependency From: openpublishing\corefx\roslyn-overview.md
