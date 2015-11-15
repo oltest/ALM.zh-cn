@@ -3,6 +3,7 @@
   "LastTranslatedCommit": null,
   "Items": {
     "bcf7532d43ea83ecd9e14c33f94b7b22246b6e4d": {
+      "FileHash": "bcf7532d43ea83ecd9e14c33f94b7b22246b6e4d",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\assembly-format.md",
       "TargetFileCommit": null,
@@ -15,9 +16,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\assembly-format.md"
+      ]
     },
     "13a745ad7505df3de3fa139501603cda51857a05": {
+      "FileHash": "13a745ad7505df3de3fa139501603cda51857a05",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\class-libraries.md",
       "TargetFileCommit": null,
@@ -30,9 +35,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\class-libraries.md"
+      ]
     },
     "8d01a8066a762a5a151edf23124aa166ec51b5e4": {
+      "FileHash": "8d01a8066a762a5a151edf23124aa166ec51b5e4",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\common-type-system.md",
       "TargetFileCommit": null,
@@ -45,9 +54,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\common-type-system.md"
+      ]
     },
     "5fefb09d0750787b2a5cf49ab6a8176b9141b8cf": {
+      "FileHash": "5fefb09d0750787b2a5cf49ab6a8176b9141b8cf",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\console.md",
       "TargetFileCommit": null,
@@ -60,9 +73,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\console.md"
+      ]
     },
     "698b28a951d61e2c7d1216269bcb680a4dd4bc10": {
+      "FileHash": "698b28a951d61e2c7d1216269bcb680a4dd4bc10",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\dnx-run.png",
       "TargetFileCommit": null,
@@ -77,9 +94,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\console.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\dnx-run.png"
       ]
     },
     "3fd5bff22e00308636c2f0c5df4b7d3392462e60": {
+      "FileHash": "3fd5bff22e00308636c2f0c5df4b7d3392462e60",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\dnx-trace-run.png",
       "TargetFileCommit": null,
@@ -94,9 +115,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\console.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\dnx-trace-run.png"
       ]
     },
     "005fc3f7f065572681b664fe24d376c0f405146b": {
+      "FileHash": "005fc3f7f065572681b664fe24d376c0f405146b",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\dnx-trace-coreclr-run.png",
       "TargetFileCommit": null,
@@ -111,9 +136,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\console.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\dnx-trace-coreclr-run.png"
       ]
     },
     "aa72de4c3ff6dea4282143dff932772bf5076204": {
+      "FileHash": "aa72de4c3ff6dea4282143dff932772bf5076204",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\delegates-lambdas.md",
       "TargetFileCommit": null,
@@ -126,9 +155,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\delegates-lambdas.md"
+      ]
     },
     "9f56bf874389479d4ec9c8080971f19905da610c": {
+      "FileHash": "9f56bf874389479d4ec9c8080971f19905da610c",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\framework-libraries.md",
       "TargetFileCommit": null,
@@ -141,9 +174,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\framework-libraries.md"
+      ]
     },
     "51689a4533ba47ce22bed502089aaf485de7a27c": {
+      "FileHash": "51689a4533ba47ce22bed502089aaf485de7a27c",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\gc-overview.md",
       "TargetFileCommit": null,
@@ -156,9 +193,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\gc-overview.md"
+      ]
     },
     "611f2e66e732e53de7d75f5b8a5549484e22e19a": {
+      "FileHash": "611f2e66e732e53de7d75f5b8a5549484e22e19a",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\generics.md",
       "TargetFileCommit": null,
@@ -171,9 +212,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\generics.md"
+      ]
     },
     "d01abe928b17237c025c054b4913821c99a4e0b9": {
+      "FileHash": "d01abe928b17237c025c054b4913821c99a4e0b9",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\getting-started\\overview.md",
       "TargetFileCommit": null,
@@ -186,9 +231,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\getting-started\\overview.md"
+      ]
     },
     "86b628ac3d19b3c01f81f6c8189002b84ef42b05": {
+      "FileHash": "86b628ac3d19b3c01f81f6c8189002b84ef42b05",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\installing-core-linux.md",
       "TargetFileCommit": null,
@@ -201,9 +250,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\installing-core-linux.md"
+      ]
     },
     "7c1c966b143a1b7480678a16ea681f00c283af13": {
+      "FileHash": "7c1c966b143a1b7480678a16ea681f00c283af13",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\installing-core-osx.md",
       "TargetFileCommit": null,
@@ -216,9 +269,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\installing-core-osx.md"
+      ]
     },
     "0184a5a6c7653c8060408e50fbebc1f81cf315a4": {
+      "FileHash": "0184a5a6c7653c8060408e50fbebc1f81cf315a4",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\installing-core-windows.md",
       "TargetFileCommit": null,
@@ -231,9 +288,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\installing-core-windows.md"
+      ]
     },
     "cd8ba36caa1f918598f5e21d8bc319fcd46a3dbc": {
+      "FileHash": "cd8ba36caa1f918598f5e21d8bc319fcd46a3dbc",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\intro-clr.md",
       "TargetFileCommit": null,
@@ -246,9 +307,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\intro-clr.md"
+      ]
     },
     "4cdd040089bfeadcaeee02bf9a61f19722616f62": {
+      "FileHash": "4cdd040089bfeadcaeee02bf9a61f19722616f62",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\managed-code.md",
       "TargetFileCommit": null,
@@ -261,9 +326,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\managed-code.md"
+      ]
     },
     "0049b616342431b715c0792b20266e99d53ba686": {
+      "FileHash": "0049b616342431b715c0792b20266e99d53ba686",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\primer.md",
       "TargetFileCommit": null,
@@ -276,9 +345,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\primer.md"
+      ]
     },
     "f0a28c4f0a7ae280a0e4c4a5dfda3bfa27ef7a88": {
+      "FileHash": "f0a28c4f0a7ae280a0e4c4a5dfda3bfa27ef7a88",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\roslyn-overview.md",
       "TargetFileCommit": null,
@@ -291,9 +364,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\roslyn-overview.md"
+      ]
     },
     "fbfe6918a245f1b9dff32ddb0670d2ac8b73101a": {
+      "FileHash": "fbfe6918a245f1b9dff32ddb0670d2ac8b73101a",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\compiler-pipeline.png",
       "TargetFileCommit": null,
@@ -308,9 +385,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\roslyn-overview.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\compiler-pipeline.png"
       ]
     },
     "56bc9f34b30fb05bbab31d709d45f30d23b4149d": {
+      "FileHash": "56bc9f34b30fb05bbab31d709d45f30d23b4149d",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\compiler-pipeline-api.png",
       "TargetFileCommit": null,
@@ -325,9 +406,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\roslyn-overview.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\compiler-pipeline-api.png"
       ]
     },
     "23805558c35dac3c885b89d4897da0dcd17957b2": {
+      "FileHash": "23805558c35dac3c885b89d4897da0dcd17957b2",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\compiler-pipeline-lang-svc.png",
       "TargetFileCommit": null,
@@ -342,9 +427,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\roslyn-overview.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\compiler-pipeline-lang-svc.png"
       ]
     },
     "75c35606d91f76b18666cd3da0fd646337a5abb0": {
+      "FileHash": "75c35606d91f76b18666cd3da0fd646337a5abb0",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\alex-api-layers.png",
       "TargetFileCommit": null,
@@ -359,9 +448,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\roslyn-overview.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\alex-api-layers.png"
       ]
     },
     "a6cb99ce97c377f3e4780f94bf9710abdcce7b7c": {
+      "FileHash": "a6cb99ce97c377f3e4780f94bf9710abdcce7b7c",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\workspace-obj-relations.png",
       "TargetFileCommit": null,
@@ -376,9 +469,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\roslyn-overview.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\workspace-obj-relations.png"
       ]
     },
     "bd3661c432f0a4778e717944cb2b9da49f01b550": {
+      "FileHash": "bd3661c432f0a4778e717944cb2b9da49f01b550",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\supporting-core.md",
       "TargetFileCommit": null,
@@ -391,9 +488,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\supporting-core.md"
+      ]
     },
     "f8208a75ae262d5130b5031bc8562d5b396442ef": {
+      "FileHash": "f8208a75ae262d5130b5031bc8562d5b396442ef",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\portability_screenshot.png",
       "TargetFileCommit": null,
@@ -408,9 +509,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\supporting-core.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\portability_screenshot.png"
       ]
     },
     "31af85325450edc2abc7ba8dadf618272e81efc4": {
+      "FileHash": "31af85325450edc2abc7ba8dadf618272e81efc4",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\portability_solution_explorer.png",
       "TargetFileCommit": null,
@@ -425,9 +530,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\supporting-core.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\portability_solution_explorer.png"
       ]
     },
     "878751ec4663e23a4ea7b70da29e750e222e19fa": {
+      "FileHash": "878751ec4663e23a4ea7b70da29e750e222e19fa",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\images\\portability_report.png",
       "TargetFileCommit": null,
@@ -442,9 +551,13 @@
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": [
         "openpublishing\\corefx\\supporting-core.md"
+      ],
+      "FilePathList": [
+        "openpublishing\\corefx\\images\\portability_report.png"
       ]
     },
     "a87f468488353198a90b5d7a4014149a241cdfc4": {
+      "FileHash": "a87f468488353198a90b5d7a4014149a241cdfc4",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\corefx\\TOC.md",
       "TargetFileCommit": null,
@@ -457,9 +570,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\corefx\\TOC.md"
+      ]
     },
     "0cd6e077b8cc8816a1075b8f4fd3dd527c31fce0": {
+      "FileHash": "0cd6e077b8cc8816a1075b8f4fd3dd527c31fce0",
       "SourceFileCommit": "31adc037beda1ec19e0a5afc28b0829f3b25e608",
       "SourceFilePath": "openpublishing\\manual\\git-tips.md",
       "TargetFileCommit": null,
@@ -472,9 +589,13 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "openpublishing\\manual\\git-tips.md"
+      ]
     },
     "b70a6bef95101b3ff849c50f0d7aaa6768a244d1": {
+      "FileHash": "b70a6bef95101b3ff849c50f0d7aaa6768a244d1",
       "SourceFileCommit": "07dd1681eb0aa3b3a798c165337480ad10842c29",
       "SourceFilePath": "README.md",
       "TargetFileCommit": null,
@@ -487,7 +608,10 @@
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "DependencyFrom": null
+      "DependencyFrom": null,
+      "FilePathList": [
+        "README.md"
+      ]
     }
   }
 }
